@@ -2,7 +2,7 @@
     box-sizing: border-box;
   }
   
-  /* brand color palette */
+  /* brand color palett */
   :root {
     --primary: rgba(68, 88, 119, 1);
     --secondary: rgba(146, 204, 206, 1);
